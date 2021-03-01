@@ -1,2 +1,2 @@
 # JavaCore
-code examples from Gerbert Shildt book's.
+code examples from Herbert Schildt book's.
